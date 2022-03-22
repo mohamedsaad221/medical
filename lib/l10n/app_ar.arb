@@ -1,0 +1,9 @@
+{
+  "language":"Arabic",
+  "@language":{
+    "description":"the current language"
+  },
+  "welcome":"مرحبا,",
+  "no_internet_connection":"لا يوجد إتصال بلإنترنت",
+  "no_internet_connection_description":"أنت غير متصل بالإنترنت. تأكد من وجود إتصال بلإنترنت، وتأكد من إغلاق وضع الطائرة ثم حاول مرة أخرى."
+}

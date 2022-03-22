@@ -1,0 +1,4 @@
+enum Gender {
+  user,
+  doctor
+}
